@@ -10,4 +10,4 @@ Library defines `GoDiceSDK` class with methods to process incoming and form outg
 
 To run demo app build it with `./gradlew assembleDebug`, deploy with `adb install app/build/outputs/apk/debug/app-debug.apk` and start `godicesdk` app. Alternatively open this directory as project in Android Studio and run `app` target.
 
-While app is running it will connect to any advertising dice, turn on red and green LEDs for 3 seconds, request it's color and charge level. Data received from dice will be logged in app.
+While app is running you can scan for all the GoDice devices, once you click on one of them, it will connect to it, then it will turn on red and green LEDs for 3 seconds, request it's color and charge level. Data received from dice will be logged in app.
