@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">godicesdk</string>
+    <string name="scan_for_godice">Scan For GoDice</string>
+    <string name="list_of_godice_devices">List of GoDice devices</string>
+</resources>
